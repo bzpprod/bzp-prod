@@ -8,9 +8,9 @@ tmp/logs/*
 
 webroot/files/*
 
-Config/database.php
+# Config/database.php
 
-Config/bootstrap.php
+# Config/bootstrap.php
 Config/email.php
 
 # Sitemaps
