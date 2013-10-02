@@ -1,0 +1,6 @@
+subject:O produto %(productTitle)s está há muito tempo a venda, modifique algo em sua descrição para vendê-lo mais rápido
+Olá %(userName)s,
+
+o produto %(productTitle)s estava há mais de 3 meses no ar.
+
+Caso você queira continuar vendendo o produto, veja o produto atráves da url %(url)s, você pode até mesmo trocar sua foto, descrição ou preço para o torná-lo mais atrativo!

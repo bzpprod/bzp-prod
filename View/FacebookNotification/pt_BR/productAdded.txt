@@ -1,0 +1,1 @@
+Seu amigo %(friendName)s acaba de anunciar o Produto "%(productTitle)s" no BazzApp

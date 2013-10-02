@@ -1,0 +1,151 @@
+############################################
+##
+## ADDRESS
+##
+############################################
+
+msgid "Address.validate.zipcode"
+msgstr "CEP inválido"
+
+msgid "Address.validate.address"
+msgstr "Endereço inválido"
+
+msgid "Address.validate.district"
+msgstr "Bairro inválido"
+
+msgid "Address.validate.city"
+msgstr "Cidade inválida"
+
+msgid "Address.validate.state"
+msgstr "Estado inválido"
+
+############################################
+##
+## CATEGORY
+##
+############################################
+
+msgid "Category.validate.parent_id"
+msgstr "Selecione uma categoria válida"
+
+msgid "Category.validate.title"
+msgstr "Título inválido"
+
+
+############################################
+##
+## LOG
+##
+############################################
+
+msgid "Log.validate.ip"
+msgstr "IP Inválido"
+
+msgid "Log.validate.action"
+msgstr "Action inválida"
+
+
+############################################
+##
+## PHONE
+##
+############################################
+
+msgid "Phone.validate.number"
+msgstr "Número inválido"
+
+
+############################################
+##
+## PAYPAL ACCOUNT
+##
+############################################
+
+msgid "PaypalAccount.validate.email"
+msgstr "E-mail inválido"
+
+
+############################################
+##
+## PRODUCT
+##
+############################################
+
+msgid "Product.validate.category_id"
+msgstr "Categoria inválida"
+
+msgid "Product.validate.title.minLength"
+msgstr "Título inválido"
+
+msgid "Product.validate.title.maxLength"
+msgstr "Limite de 200 caracteres"
+
+msgid "Product.validate.description"
+msgstr "Descrição inválida"
+
+msgid "Product.validate.price"
+msgstr "Preço inválido"
+
+msgid "Product.validate.quantity"
+msgstr "Quantidade inválida"
+
+msgid "Product.validate.condition"
+msgstr "Selecione uma opção válida"
+
+
+############################################
+##
+## QUALIFICATION
+##
+############################################
+
+msgid "Qualification.validate.delivered"
+msgstr "Selecione uma das opções acima"
+
+msgid "Qualification.validate.delivered_description"
+msgstr "Selecione uma das opções acima"
+
+msgid "Qualification.validate.qualification"
+msgstr "Selecione uma das opções acima"
+
+msgid "Qualification.validate.qualification_description"
+msgstr "Selecione uma das opções acima"
+
+msgid "Qualification.validate.testimony"
+msgstr "Preencha o seu depoimento"
+
+msgid "Qualification.validate.method"
+msgstr "Método inválido"
+
+
+############################################
+##
+## STORE
+##
+############################################
+
+msgid "Store.validate.title"
+msgstr "Título inválido"
+
+
+############################################
+##
+## USER
+##
+############################################
+
+msgid "User.validate.name"
+msgstr "Nome inválido"
+
+msgid "User.validate.email"
+msgstr "E-mail inválido"
+
+msgid "User.validate.birthday"
+msgstr "Data de nascimento inválida"
+
+msgid "User.validate.gender"
+msgstr "Sexo inválido"
+
+msgid "User.validate.location"
+msgstr "Localização inválida"
+

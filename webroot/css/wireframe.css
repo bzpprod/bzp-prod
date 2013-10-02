@@ -1,0 +1,53 @@
+html { background: #FFF; }
+body { font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000; }
+
+div.clearfloat { clear: both; }
+a { color: #000; text-decoration: underline; }
+a:hover { color: #FEBD3F; }
+
+h1 { font-size: 40px; }
+
+form div.input { margin-bottom: 10px; }
+form div.input > label { display: block; font-weight: bold; margin-bottom: 3px; }
+form div.input.text > input,
+form div.input.textarea > textarea { display: block; border: solid 1px #000; padding: 10px; width: 400px; }
+form div.input > div.error-message { font-size: 11px; color: #F00; }
+form div.submit > input { background: #000; color: #FFF; padding: 10px; font-weight: bold; }
+
+div#bazzapp { padding: 10px; background: #000; }
+div#bazzapp > div.logo { float: left; font-size: 26px; font-weight: bold; }
+div#bazzapp > div.user { position: relative; float: right; }
+div#bazzapp > div.user > div.photo { float: right; }
+div#bazzapp > div.user > div.navbar { float: left; margin-top: 8px; font-weight: bold; font-size: 10px; }
+div#bazzapp > div.user > div.navbar > ul > li { display: inline; padding-right: 10px; margin-right: 10px; border-right: solid 1px #FEBD3F; }
+div#bazzapp > div.user > div.navbar > ul > li > a { color: #FEBD3F; text-decoration: none; }
+div#bazzapp > div.user > div.navbar > ul > li > a:hover { text-decoration: underline; }
+div#bazzapp > div.user > div.navbar > ul > li.last { border-right: none; }
+
+div#content { padding: 20px; }
+div#content div.tools { font-weight: bold; }
+div#content div.tools > ul > li { display: inline; margin-right: 10px; }
+div#content div.tools > ul > li > a { color: #FEBD3F; }
+div#content div.tools > ul > li > a:hover { color: #000; }
+div#content div.no-records { font-weight: bold; margin-bottom: 20px; }
+
+div#stores > div.store { float: left; padding: 5px; margin: 0 10px 10px 0; height: 100px; text-align: center; border: solid 1px #000; }
+div#stores > div.store > div.title { margin-bottom: 5px; font-weight: bold; }
+div#stores > div.store > div.title > a { text-transform: uppercase; text-decoration: none; }
+
+div#store-admin > div.logo { float: left; margin-right: 20px; }
+div#store-admin > div.navbar > ul > li { display: inline-block; margin-right: 5px; }
+
+div#products-admin > div.product { float: left; margin: 0 10px 10px; border: solid 1px #000; padding: 10px; }
+div#products-admin > div.product > div.title { margin-bottom: 5px; font-size: 14px; font-weight: bold; }
+div#products-admin > div.product > div.image { margin-bottom: 5px; }
+div#products-admin > div.product > div.price { float: left; }
+div#products-admin > div.product > div.navbar { float: right; }
+
+div#albums-admin > div.album { float: left; margin: 0 10px 10px; border: solid 1px #000; padding: 10px; text-align: center; }
+div#albums-admin > div.album > div.title { margin-bottom: 5px; font-size: 14px; font-weight: bold; }
+div#albums-admin > div.album > div.image { margin-bottom: 5px; }
+div#albums-admin > div.album:hover,
+div#albums-admin > div.album.active { border-color: #FEBD3F; }
+
+div#products-form-list > div { padding-bottom: 30px; margin-bottom: 30px; border-bottom: solid 1px #000; }

@@ -1,0 +1,10 @@
+%(storeTitle)s,
+
+Você tem uma venda do item "%(productTitle)s", por %(productPrice)s porém a mesma não pode ser concluída pois o seu email registrado do paypal encontra-se como não verificado.
+Por favor entre no PayPal no endereço http://www.paypal.com.br e regularize sua situação.
+
+Equipe BazzApp
+
+
+
+Este é um email automático não devendo ser respondido.

@@ -1,0 +1,4 @@
+<?php echo $transaction['Store']['title']; ?>,<br /><br />
+Você tem uma venda do item "<?php echo $this->Html->link($transaction['StoreProduct']['Product']['title'], Configure::read('Facebook.redirect') . Router::url(array('controller' => 'products', 'action' => 'view', 'admin' => false, 'product' => $transaction['StoreProduct']['slug']))); ?>", por <?php echo CakeNumber::currency($transaction['Transaction']['price'], 'BRR'); ?> porém a mesma não pode ser concluída pois o seu email registrado do paypal encontra-se como não verificado. Por favor entre no PayPal no endereço http://www.paypal.com.br e regularize sua situação.<br /><br />
+<b>Equipe BazzApp</b><br /><br /><br />
+<font size="-4">Este é um email automático não devendo ser respondido.</font>

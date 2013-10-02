@@ -1,0 +1,104 @@
+/* =============
+	FANPAGE
+================ */
+body.fp{ background-color:#FFF !important;}
+#global{ border: 0 !important;	}
+#global.fanpage #top{ background-color: #FFF !important;}
+#global.fanpage > .center{ margin:0; padding:0; width:810px; border:none;}
+#global.fanpage.home #breadcrumb{ display:none;}
+#global.fanpage #top{}
+#global.fanpage #top .logo{ float:left; position:absolute; width:93px; margin-top: 0px; margin-left:19px;}
+#global.fanpage #top .logo h1{ display:block; height:34px; width:100%; overflow: hidden; margin-top: 5px; background: url(../img/fanpage/logo.jpg) no-repeat top center;}
+#global.fanpage #top .logo h1 a{display:block; padding-top:60px;}
+#global.fanpage #head-banner, #global.fanpage #head-banner > .banner{ display:block; width:100%; height:137px; overflow:hidden; margin-bottom:20px;}
+#global.fanpage #top #menu{ float:left; margin-left:130px; margin-top:0; margin-bottom:20px;}
+#global.fanpage #top #menu > ul{ margin:6px 0;}
+#global.fanpage #top #menu > ul *{ font-size:12px; color:#343434;}
+#global.fanpage #store-search-bar{ border:1px solid #CCC; border-radius:3px; -moz-border-radius:3px; margin-top:7px;}
+#global.fanpage #top #top-search-bar input.search, #global.fanpage #store-search-bar input.search{ border:none; height:18px; width:325px; margin-top:2px; 
+padding-left:10px; color:#CCC;} 
+#global.fanpage #top #top-search-bar input.btnsearch, #global.fanpage #store-search-bar input.btnsearch{ border:none; border-left:1px solid #CCC; 
+display: block; width:28px; height:22px; background: #EEE url(../img/fanpage/btn_search.jpg) no-repeat center center; float:right; cursor:pointer;}
+#global.fanpage #store-search-bar{ float:left; margin-left:25px; margin-top:0;}
+#global.fanpage #store-search-bar input.search{ width:242px;}
+#global.fanpage #head-info{ border-bottom: 1px dotted #000000; margin: 0 19px 20px; padding-bottom: 20px;}
+#global.fanpage #head-info .qualify, #global.fanpage #head-info .share,  #global.fanpage #head-info .qualifier-status{ float:right;}
+#global.fanpage #head-info h2{ float:left; font-size:24px; font-weight:bold; margin-top:-6px; }
+#global.fanpage #head-info .qualify{color:#1296D4; padding-top:3px;}
+#global.fanpage #head-info .qualify *{ padding:5px; font-size:11px; color:#1296D4;}
+#global.fanpage #head-info .share{ width:61px; height:20px; display:block; overflow:hidden;}
+#global.fanpage #head-info .share > .lkn{ background: url("../img/btn_follow.png") no-repeat 0 0 #FFF; cursor: pointer; display: block; height: 20px; 
+text-indent: -99999px; width: 100%;}
+#global.fanpage #head-info .share > .fb_edge_widget_with_comment{ margin-top:-20px; padding:0; position:absolute; opacity: 0;
+filter: alpha(opacity=0); -moz-opacity: 0; -khtml-opacity: 0; -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)"; }
+#global.fanpage #head-info .share.unfollow{ width:75px;}
+#global.fanpage #head-info .share.unfollow > .lkn{ background: #FFF url(../img/btn_follow.png) no-repeat -60px 0;}
+#global.fanpage #head-info .qualifier-status{ margin:0 6px; }
+#global.fanpage #head-info .qualifier-status .icon{ background-image: url(../img/fanpage/qualifier.jpg); background-repeat: no-repeat; width:38px; height:18px; 
+display:block;}
+#global.fanpage #head-info .qualifier-status div{ float:left; border-top: 1px solid #e4dfe6; border-bottom: 1px solid #e4dfe6;}
+#global.fanpage #head-info .qualifier-status .icon.positive{ background-position:0 0; border-left: 1px solid #e4dfe6;}
+#global.fanpage #head-info .qualifier-status .icon.negative{ background-position:0 -19px;}
+#global.fanpage #head-info .qualifier-status .value{ display:block; width:28px; border-right: 1px solid #e4dfe6; padding:2px; height:14px;}
+
+#global.fanpage #top #menu > div > div{ position:absolute; background-color: #FFF; border: 1px solid #CCC; margin-left: -1px; margin-top: 58px;
+border-radius: 0 3px 3px 3px; -moz-border-radius:0 3px 3px 3px; -webkit-border-radius:0 3px 3px 3px; box-shadow:1px 1px 2px rgba(8, 22, 37, 0.2); z-index:99;}
+#global.fanpage #top #menu > .menu-account > a{ padding-right:12px; padding-left:12px;}
+#global.fanpage #top #menu > .menu-account:hover, #global.fanpage #top #menu > .menu-account.selected{ background-color:#FFF; border:1px solid #CCC;}
+#global.fanpage #top #menu > .menu-account:hover > a{color:#48b2ca;}
+#global.fanpage #top #menu > .menu-about{ display: block; border:1px solid transparent;}
+#global.fanpage #top #menu > .menu-about > a{ width:50px}
+#global.fanpage #top #menu > .menu-about > a, #global.fanpage #top #menu > .menu-about.selected > a {background: url(../img/top-arrow-down-white.gif) no-repeat 55px 23px;}
+#global.fanpage #top #menu > .menu-about > div > ul > li > a, #global.fanpage #top #menu > .menu-account > div > ul > li{border-left:2px solid transparent;}
+#global.fanpage #top #menu > .menu-about > div > ul > li > a:hover, #global.fanpage #top #menu > .menu-account > div > ul > li:hover{border-left:2px solid #48b2ca;}
+#global.fanpage #top #menu > .menu-share{ padding:0 10px; background: url(../img/icon-top-share.png) no-repeat 10px 15px; }
+#global.fanpage #top #menu > .menu-share > a > span{ display: block; float: left; height: 20px; width: 24px;}
+#global.fanpage #top #menu > .menu-account{ width:118px; display: block; background: none; padding-left:15px;
+border:1px solid transparent;}
+#global.fanpage #top #menu > .menu-account > div{ margin-left:-16px; width:133px; margin-top:50px;}
+#global.fanpage #top #menu > .menu-account > div > ul > li{ }
+#global.fanpage #top #menu > .menu-account > div > ul > li > a{ float:left; width:75%; background-image: url(../img/icons-account.jpg); 
+background-repeat: no-repeat; padding-left:30px;}
+#global.fanpage #top #menu > .menu-account > div > ul > li:hover > a{color:#48b2ca;}
+#global.fanpage #top #menu > .menu-account > div > ul > li.i1 > a{ background-position:8px -38px;}
+#global.fanpage #top #menu > .menu-account > div > ul > li.i2 > a{ background-position:8px -74px;}
+#global.fanpage #top #menu > .menu-account > div > ul > li.i3 > a{ background-position:8px -112px;}
+#global.fanpage #top #menu > .menu-account > div > ul > li.i4 > a{ background-position:8px -147px;}
+#global.fanpage #top #menu > .menu-account > div > ul > li.i5 > a{ background-position:8px -182px;}
+#global.fanpage #top #menu > .menu-account > a{background: url(../img/top-arrow-down-white.gif) no-repeat right 23px; }
+#global.fanpage #top #menu > .menu-account > a{ color:#000;}
+#global.fanpage #store-header .spacer{ margin-top:90px !important;}
+
+/* =============
+ FANPAGE  - HOME
+================ */
+#global.fanpage.home #head-info  #store-search-bar{ display:none;}
+#global.fanpage.home .filter > li{ margin-left:2px; margin-top:-2px;}
+#global.fanpage .products-view-controls{ margin-bottom:10px;}
+#global.fanpage .products-view #store-search-bar{ margin-left:0; margin-right:7px;}
+#global.fanpage .products-view #store-search-bar input.search{ width:210px !important; float:left;}
+#global.fanpage .products-view .store-search-filter{ width:150px !important; overflow:hidden; height:30px; margin-left:10px; margin-right:10px;}
+#global.fanpage .products-view .store-search-filter > span{ margin-top:5px; color:#9a9a9a; font-weight:bold; margin-right:5px;}
+#global.fanpage .products-view .store-search-filter > span, #global.fanpage .products-view .store-search-filter div.selector{ float:left;}
+#global.fanpage .products-view .store-search-filter div.selector{ width:110px !important;}
+#global.fanpage .products-view .store-search-filter div.selector *{ cursor:pointer;}
+#global.fanpage .products-view .store-search-filter div.selector span{ width:80px !important; overflow:hidden;}
+#global.fanpage .products-view .store-search-filter div.selector select { width:90px !important;}
+#global.fanpage .products-view-controls > .l{ margin-left:19px;}
+#global.fanpage .products-view-controls > .r{ float: right; margin-right: 17px; margin-top: -32px;}
+#global.fanpage .filter{ }
+#global.fanpage .filter > li{float:left; height:30px; overflow:hidden; margin-left: 10px;}
+#global.fanpage .filter > li:first-child{ margin-left:0;}
+#global.fanpage .filter > li > a{ background-image: url("../img/filters.jpg"); background-repeat:no-repeat; width: 82px;display:block; padding-top:70px; display:block;}
+#global.fanpage .filter > .filter1 > a{ background-position:0 0; width:90px;}
+#global.fanpage .filter > .filter2 > a{ background-position:-99px 0; width:92px; }
+#global.fanpage .filter > .filter3 > a{ background-position:-200px 0; width:95px;}
+#global.fanpage .filter > .filter4 > a{ background-position:-302px 0;}
+#global.fanpage .filter > .filter5 > a{ background-position:-394px 0;}
+#global.fanpage .filter > .filter6 > a{ background-position:-486px 0; width:112px;}
+#global.fanpage .filter > .filter1 > a:hover, #global.fanpage .filter > .filter1.selected a{ background-position:0 -33px;}
+#global.fanpage .filter > .filter2 > a:hover, #global.fanpage .filter > .filter2.selected a{ background-position:-99px -33px;}
+#global.fanpage .filter > .filter3 > a:hover, #global.fanpage .filter > .filter3.selected a{ background-position:-200px -33px;}
+#global.fanpage .filter > .filter4 > a:hover, #global.fanpage .filter > .filter4.selected a{ background-position:-302px -33px;}
+#global.fanpage .filter > .filter5 > a:hover, #global.fanpage .filter > .filter5.selected a{ background-position:-394px -33px;}
+#global.fanpage .filter > .filter6 > a:hover, #global.fanpage .filter > .filter6.selected a{ background-position:-486px -33px;}

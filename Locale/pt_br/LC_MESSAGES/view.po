@@ -1,0 +1,799 @@
+################
+## LAYOUTS
+################
+msgid "Layouts.fb_default.bazzapp"
+msgstr "- BazzApp"
+
+msgid "Layouts.default.top.logo.Name"
+msgstr "BazzApp - Marketplace onde comprar e vender no Facebook"
+
+msgid "Layouts.default.menu.advertise.Title"
+msgstr "Anunciar"
+
+msgid "Layouts.default.menu.about.Title"
+msgstr "Sobre"
+
+msgid "Layouts.default.menu.terms_use.Title"
+msgstr "Termos de Uso"
+
+msgid "Layouts.default.menu.privacy_policy.Title"
+msgstr "Política de Privacidade"
+
+msgid "Layouts.default.menu.business.Title"
+msgstr "Empresa"
+
+msgid "Layouts.default.menu.how_works.Title"
+msgstr "Como funciona"
+
+msgid "Layouts.default.menu.press.Title"
+msgstr "Imprensa"
+
+msgid "Layouts.default.menu.wishlist.Title"
+msgstr "Lista de compras"
+
+msgid "Layouts.default.menu.editstore.Title"
+msgstr "Editar Loja"
+
+msgid "Layouts.default.menu.invitefriends.Title"
+msgstr "Divulgar Loja"
+
+msgid "Layouts.default.menu.share.Title"
+msgstr "<span>&nbsp;</span>Compartilhe"
+
+msgid "Layouts.default.search.Value"
+msgstr "Buscar"
+
+msgid "Layouts.default.search.Title"
+msgstr "&nbsp;"
+
+msgid "Layouts.default.menu.my_account.Title"
+msgstr "Minha Conta"
+
+msgid "Layouts.default.menu.my_ads.Title"
+msgstr "Anúncios"
+
+msgid "Layouts.default.menu.my_store.Title"
+msgstr "Dados da Loja"
+
+msgid "Layouts.default.menu.my_transactions.Title"
+msgstr "Transações"
+
+msgid "Layouts.default.menu.my_invites.Title"
+msgstr "Convites"
+
+msgid "Layouts.default.menu.my_feeds.Title"
+msgstr "Feeds"
+
+msgid "Layouts.default.menu.categories.Title"
+msgstr "Categorias"
+
+msgid "Layouts.default.sales.Title"
+msgstr "Vendas"
+
+msgid "Layouts.default.purchases.Title"
+msgstr "Compras"
+
+msgid "Layouts.default.pagination.pages"
+msgstr "Páginas:"
+
+msgid "Layout.Redirect.Text"
+msgstr "Redirecionando..."
+
+msgid "Layouts.fb_default.stores.delete.Title"
+msgstr "Excluir Produto"
+
+################
+## FILTERS
+################
+
+msgid "Layouts.default.filters.Title"
+msgstr "Filtrar por"
+
+msgid "Layouts.default.filters.created.Title"
+msgstr "Recentes"
+
+msgid "Layouts.default.filters.friends-like.Title"
+msgstr "Mais Curtidos"
+
+msgid "Layouts.default.filters.friends-products.Title"
+msgstr "Amigos"
+
+msgid "Layouts.default.filters.follow-stores.Title"
+msgstr "Lojas Seguidas"
+            
+msgid "Layouts.default.filters.expensive.Title"
+msgstr "Maior preço"
+
+msgid "Layouts.default.filters.cheap.Title"
+msgstr "Menor preço"
+
+msgid "Layouts.default.filters.type.Title"
+msgstr "Tipo de Visualização"
+
+msgid "Stores.admin_add.form.field_addressNumber.title"
+msgstr "Número"
+
+msgid "Stores.admin_add.form.field_address_line2.title"
+msgstr "Complemento"
+
+msgid "Layouts.default.filters.store.Title"
+msgstr "Lojas"
+
+msgid "Layouts.default.filters.products.Title"
+msgstr "Produtos"
+
+################
+## CONTROLS
+################
+
+msgid "Layouts.default.controls.live"
+msgstr "Colocar no ar"
+
+msgid "Layouts.default.controls.delete"
+msgstr "Excluir"
+
+msgid "Layouts.default.controls.edit"
+msgstr "Editar"
+
+msgid "Layouts.default.controls.follow"
+msgstr "Seguir"
+
+msgid "Layouts.default.controls.unfollow"
+msgstr "Seguindo"
+
+msgid "Layouts.default.controls.invite"
+msgstr "Recomendar"
+
+################
+## HOME
+################
+
+msgid "Home.productsdestak.Title"
+msgstr "Produtos em Destaque"
+
+msgid "Home.productsothers.Title"
+msgstr "Outros Produtos"
+
+msgid "Home.storesdestak.Title"
+msgstr "Lojas em Destaque"
+
+msgid "Home.storesothers.Title"
+msgstr "Outras Lojas"
+
+msgid "Home.filterlist.created"
+msgstr "Mais Recentes"
+
+msgid "Home.filterlist.recommendations"
+msgstr "Mais Recomendados"
+
+msgid "Home.filterlist.likes"
+msgstr "Mais Curtidos"
+
+msgid "Home.filterlist.expensive"
+msgstr "Maiores Preços"
+
+msgid "Home.filterlist.cheap"
+msgstr "Menores Preços"
+
+msgid "Home.filterlist.purchases"
+msgstr "Mais Vendidos"
+
+msgid "Home.filterlist.friends-like"
+msgstr "Produtos mais curtidos por meus amigos"
+
+msgid "Home.filterlist.friends-products"
+msgstr "Produtos de amigos"
+
+msgid "Home.filterlist.follow-stores"
+msgstr "Lojas que sigo"
+
+msgid "Home.carousel.viewstore.Title"
+msgstr "Veja a Loja"
+
+msgid "Home.carousel.countproducts.Title"
+msgstr " Produtos"
+
+################
+## PRODUCTS
+################
+
+#### PAYPAL ADV ####
+
+msgid "Products.admin_add_paypal_adv.title"
+msgstr "Para Anunciar no BazzApp você precisa primeiro criar sua conta do PayPal"
+
+msgid "Products.admin_add_paypal_adv.subtitle"
+msgstr "Identificamos que você ainda não tem uma conta do PayPal vinculada a sua loja, é necessário ter uma para receber seus pagamentos."
+
+msgid "Products.admin_add_paypal_adv.haveaccount.title"
+msgstr "Já Tenho Conta no Paypal"
+
+msgid "Products.admin_add_paypal_adv.donthaveaccount.title"
+msgstr "Não tenho Conta no Paypal"
+
+msgid "Products.admin_add_paypal_adv.addaccount.title"
+msgstr "Criar conta no PayPal"
+
+msgid "Products.admin_add_paypal_adv.emailnot.title"
+msgstr "Desculpe, o email informado não ainda não pode receber pagamentos do PayPal no Brasil. Por favor informe outro email ou"
+
+msgid "Products.admin_add_paypal_adv.emailnot2.title"
+msgstr "crie sua conta"
+
+msgid "Products.admin_add_paypal_adv.checkmail.button"
+msgstr "Validar Email"
+
+msgid "Products.admin_add_paypal_adv.accountmail.title"
+msgstr "Email da sua conta"
+
+msgid "Products.admin_add_paypal_adv.checkingmail.title"
+msgstr "Validando endereço de e-mail"
+
+
+#### FB_ADMIN_ADD ####
+
+msgid "Products.admin_add.form.title"
+msgstr "Anuncie seu produto"
+
+msgid "Products.admin_edit.form.title"
+msgstr "Alteração do seu produto"
+
+msgid "Products.admin_add.form.title2"
+msgstr "Preencha abaixo as informações do seu produto:"
+
+msgid "Products.admin_add.form.field_photo.title"
+msgstr "Fotos"
+
+msgid "Products.fb_admin_add.form.filemax"
+msgstr "(Tamanho máximo permitido de %s)"
+
+msgid "Products.admin_add.form.field_title.title"
+msgstr "Nome do produto"
+
+msgid "Products.admin_add.form.field_description.title"
+msgstr "Descrição"
+
+msgid "Products.admin_add.form.field_price.title"
+msgstr "Preço (R$)"
+
+msgid "Products.admin_add.form.field_quantity.title"
+msgstr "Quantidade"
+
+msgid "Products.admin_add.form.field_category.title"
+msgstr "Categoria"
+
+msgid "Products.admin_add.form.field_subcategory.title"
+msgstr "Subcategoria"
+
+msgid "Products.admin_add.form.field_condition.title"
+msgstr "Condição"
+
+msgid "Products.admin_add.form.field_condition.new.title"
+msgstr "Novo"
+
+msgid "Products.admin_add.form.field_condition.used.title"
+msgstr "Usado"
+
+msgid "Products.admin_add.form.field_condition.refurbished.title"
+msgstr "Remanufaturado"
+
+msgid "Products.admin_add.form.field_exchangeable.title"
+msgstr "Aceito trocas"
+
+msgid "Products.admin_add.form.submit"
+msgstr "Cadastrar produto"
+
+msgid "Products.admin_edit.form.submit"
+msgstr "Alterar produto"
+
+msgid "Products.admin_add.import_album"
+msgstr "Importe seu album de fotos para vender no Bazzapp"
+
+msgid "Products.admin_import.form.submit"
+msgstr "Importar"
+
+msgid "Products.admin_view.form.field_condition.new"
+msgstr "Produto Novo"
+
+msgid "Products.admin_view.form.field_condition.used"
+msgstr "Produto Usado"
+
+msgid "Products.admin_view.form.field_condition.refurbished"
+msgstr "Produto Remanufaturado"
+
+msgid "Products.admin_view.form.field_quantity.title"
+msgstr "Quantidade :quantity_field de <span>:quantity_available</span>"
+
+msgid "Products.admin_view.form.field_quantity_with.title"
+msgstr ":quantity_field de <span>:quantity_available</span>"
+
+msgid "Products.admin_view.form.field_with.title"
+msgstr "de "
+
+msgid "Products.admin_view.availabledisp.title"
+msgstr "disponíveis"
+
+msgid "Products.admin_view.form.buyconfirm"
+msgstr "Confirmação de Compra"
+
+msgid "Products.admin_view.form.buyconfirm.subtitle"
+msgstr "Verifique o produto de sua compra abaixo e clique em "Confirmar Compra". Nosso processo é rápido e seguro!"
+
+msgid "Products.admin_view.form.submit.buyconfirm"
+msgstr "Confirmar Compra"
+
+msgid "Products.admin_view.form.submit.buynext"
+msgstr "Prosseguir com a Compra"
+
+msgid "Products.admin_view.form.submit.buy"
+msgstr "Comprar"
+
+msgid "Products.admin_view.form.buyqtdmsg"
+msgstr "A quantidade inserida é maior que a disponível, Por favor verifique e tente novamente."
+
+msgid "Products.admin_view.form.field_address_line2.title"
+msgstr "Complemento"
+
+msgid "Products.admin_add.form.deliveryService.title"
+msgstr "Opções de entrega"
+
+##FB_ADMIN_EDIT ####
+
+msgid "Products.fb_admin_edit.form.field_photo.title"
+msgstr "Foto"
+
+msgid "Products.fb_admin_edit.form.field_title.title"
+msgstr "Nome do produto"
+
+msgid "Products.fb_admin_edit.form.field_description.title"
+msgstr "Descri&ccedil;&atilde;o"
+
+msgid "Products.fb_admin_edit.form.field_price.title"
+msgstr "Preço (R$)"
+
+msgid "Products.fb_admin_edit.form.field_quantity.title"
+msgstr "Quantidade"
+
+msgid "Products.fb_admin_edit.form.field_refurbished.title"
+msgstr "Condição"
+
+msgid "Products.fb_admin_edit.form.field_condition.new"
+msgstr "Novo"
+
+msgid "Products.fb_admin_edit.form.field_condition.used"
+msgstr "Usado"
+
+msgid "Products.fb_admin_edit.form.field_condition.refurbished"
+msgstr "Remanufaturado"
+
+msgid "Products.fb_admin_edit.form.field_exchangeable.title"
+msgstr "Aceito trocas"
+
+msgid "Products.fb_admin_edit.form.submit"
+msgstr "Atualizar dados do produto"
+
+msgid "Products.fb_admin_edit.form.submitconfirm"
+msgstr "Voc\xC3\xAA confirma a compra de ':produto' ?"
+
+msgid "Products.admin_view.othersproducts.title"
+msgstr "Mais produtos desse vendedor"
+
+##FB_ADMIN_IMPORT ####
+msgid "Products.admin_import.title"
+msgstr "Importar produtos do álbum"
+
+msgid "Products.fb_admin_import.form.title"
+msgstr "Importar produtos do álbum"
+
+msgid "Products.fb_admin_import.form.selectalbum"
+msgstr "Selecione o album"
+
+##FB_ADMIN_BUY ####
+
+msgid "Products.buy.title"
+msgstr "Confirmação de Compra"
+
+msgid "Products.buy.subtitle"
+msgstr "Verifique seu produto abaixo, dados para entrega e confirme sua compra."
+
+msgid "Products.buy.deliveryinformation.title"
+msgstr "Dados para Entrega"
+
+msgid "Products.buy.form.field_cep.title"
+msgstr "CEP (xxxxx-xxx)"
+
+msgid "Products.buy.form.field_estate.title"
+msgstr "Estado"
+
+msgid "Products.buy.form.field_city.title"
+msgstr "Cidade"
+
+msgid "Products.buy.form.field_address.title"
+msgstr "Endereco"
+
+msgid "Products.buy.form.field_district.title"
+msgstr "Bairro"
+
+msgid "Products.buy.form.field_email.title"
+msgstr "Email"
+
+msgid "Products.buy.form.cancel.title"
+msgstr "Cancelar"
+
+msgid "Products.buy.form.buy.title"
+msgstr "Comprar"
+
+msgid "Products.buy.view.product.title"
+msgstr "Produto"
+
+msgid "Products.buy.view.name.title"
+msgstr "Nome"
+
+msgid "Products.buy.view.quantity.title"
+msgstr "Qtd."
+
+msgid "Products.buy.view.price.title"
+msgstr "Preço"
+
+msgid "Products.buy.view.total"
+msgstr "Total: "
+
+msgid "Products.admin_add.form.pay.title"
+msgstr "Forma de Pagamento"
+
+msgid "Products.buy.form.field_name.title"
+msgstr "Nome"
+
+msgid "Products.admin_add.form.personal_data.title"
+msgstr "Dados de Contato"
+
+msgid "Layouts.fb_default.curencymoney"
+msgstr "R$"
+
+################
+## STORES
+################
+
+msgid "Stores.follow.title"
+msgstr "Seguir"
+
+msgid "Stores.unfollow.title"
+msgstr "Não seguir"
+
+msgid "Stores.import_products.Title"
+msgstr "Importar Álbum"
+
+msgid "Stores.fb_admin_view.selectyourstore.Title"
+msgstr "Selecione sua loja"
+
+msgid "Stores.fb_admin_view.view.title"
+msgstr "Ver:"
+
+##ADD ####
+
+msgid "Stores.admin_add.form.field_logo.title"
+msgstr "Logo"
+
+msgid "Stores.admin_add.form.field_title.title"
+msgstr "Nome da loja"
+
+msgid "Stores.admin_add.form.field_description.title"
+msgstr "Descrição"
+
+msgid "Stores.admin_add.form.submit"
+msgstr "Cadastrar loja"
+
+msgid "Stores.admin_add.form.field_tel.title"
+msgstr "Telefone (xx xxxx-xxxx)"
+
+msgid "Stores.admin_add.form.paypalmail.title"
+msgstr "Email do Paypal"
+
+msgid "Stores.admin_add.paypalregister.title"
+msgstr "Ainda não possui? Cadastre-se e receba pagamento via PayPal"
+
+msgid "Stores.admin_add.form.field_cpf.title"
+msgstr "Documento (CPF ou CNPJ)"
+
+msgid "Stores.admin_add.form.field_bank.title"
+msgstr "Dados bancários"
+
+msgid "Stores.admin_add.form.field_address.title"
+msgstr "Endereço"
+
+msgid "Stores.admin_add.form.field_addressNumber.title"
+msgstr "Número"
+
+msgid "Stores.admin_add.form.field_address_line2.title"
+msgstr "Complemento"
+
+msgid "Stores.admin_add.form.field_bank.title"
+msgstr "Banco"
+
+msgid "Stores.admin_add.form.field_bank_benefic.title"
+msgstr "Nome"
+
+msgid "Stores.admin_add.form.field_bankdata.title"
+msgstr "Dados Bancários"
+
+msgid "Stores.admin_add.form.field_ag.title"
+msgstr "Agência"
+
+msgid "Stores.admin_add.form.field_cc.title"
+msgstr "Número da Conta"
+
+msgid "Stores.admin_add.form.field_estate.title"
+msgstr "Estado"
+
+msgid "Stores.admin_add.form.field_city.title"
+msgstr "Cidade"
+
+msgid "Stores.admin_add.form.field_district.title"
+msgstr "Bairro"
+
+msgid "Stores.admin_add.form.field_address.title"
+msgstr "Endereço"
+
+msgid "Stores.admin_add.form.field_cep.title"
+msgstr "CEP (xxxxx-xxx)"
+
+### MY STORE
+
+msgid "Stores.fb_admin_view.edit_store"
+msgstr "Editar loja"
+
+msgid "Stores.fb_admin_view.products_on"
+msgstr "Produtos ativos"
+
+msgid "Stores.fb_admin_view.products_off"
+msgstr "Produtos esgotados"
+
+msgid "Stores.admin_add.form.title"
+msgstr "Informações do Produto"
+
+msgid "Stores.fb_admin_edit.form.field_title.title"
+msgstr "Nome da loja"
+
+msgid "Stores.fb_admin_edit.form.field_description.title"
+msgstr "Descrição"
+
+msgid "Stores.fb_admin_edit.form.submit"
+msgstr "Atualizar dados da loja"
+
+msgid "Stores.fb_admin_edit.title.edit"
+msgstr "Editar Loja"
+
+msgid "Stores.profile.followers.title"
+msgstr "Seguidores"
+
+msgid "Stores.profile.positive_qualified.title"
+msgstr "Qualificações positivas"
+
+msgid "Stores.profile.negative_qualified.title"
+msgstr "Qualificações negativas"
+
+msgid "Stores.profile.comments.title"
+msgstr "Compartilhamentos"
+
+############################################
+## TRANSACTIONS
+############################################
+msgid "Transactions.notqualified.title"
+msgstr "Não qualificado."
+
+msgid "Transactions.profile.title"
+msgstr "perfil"
+
+msgid "Transactions.date.title"
+msgstr "Data da Negociação"
+
+msgid "Transactions.payment.deposit.title"
+msgstr "Depósito Bancário"
+
+msgid "Transactions.info.payment.title"
+msgstr "Forma de Pagamento"
+
+msgid "Transactions.info.transactionid.title"
+msgstr "Código da Transação"
+
+
+
+#### PURCHASES ####
+msgid "Transactions.purchases.product.title"
+msgstr "Produto"
+
+msgid "Transactions.purchases.buyer.title"
+msgstr "Comprador"
+
+msgid "Transactions.purchases.sales.title"
+msgstr "Vendedor"
+
+msgid "Transactions.purchases.price.title"
+msgstr "Valor Total"
+
+msgid "Transactions.purchases.info.title"
+msgstr "Informações"
+
+msgid "Transactions.purchases.info.quantity.title"
+msgstr "Quantidade"
+
+msgid "Transactions.purchases.info.date.title"
+msgstr "Data"
+
+msgid "Transactions.purchases.actions.title"
+msgstr "Ações"
+
+msgid "Transactions.purchases.info.sellerdata.title"
+msgstr "Dados do Vendedor"
+
+msgid "Transactions.purchases.info.transactiondata.title"
+msgstr "Resumo"
+
+msgid "Transactions.purchases.qualification.title"
+msgstr "Qualificação"
+
+msgid "Transactions.purchases.deliveryqualification.title"
+msgstr "+ frete R$"
+
+############################################
+#### QUALIFICATION
+############################################
+
+msgid "Layouts.qualification.listby.Title"
+msgstr "Listar por:"
+
+msgid "Layouts.qualification.listby.positive.Title"
+msgstr "Positiva"
+
+msgid "Layouts.qualification.listby.negative.Title"
+msgstr "Negativa"
+
+msgid "Layouts.qualification.qualifierwith.Title"
+msgstr "qualificou como"
+
+msgid "Qualification.form.why.title"
+msgstr "Porque?"
+
+msgid "Qualification.form.field_description.store.title"
+msgstr "Deixe seu depoimento sobre a loja(opcional)"
+
+msgid "Qualification.form.field_description.buyer.title"
+msgstr "Deixe seu depoimento sobre o comprador(opcional)"
+
+msgid "Qualification.form.field_qualification.title"
+msgstr "Como você qualifica a transação?"
+
+msgid "Qualification.form.submit"
+msgstr "Gravar"
+
+msgid "Qualification.qualify.view.Title"
+msgstr "Ver depoimentos"
+
+############################################
+#### REFERRAL/INVITE/SHARE
+############################################
+
+msgid "Referral.acceptedfriends.Title"
+msgstr " Amigos seus já aceitaram seu Convite, veja quem foram"
+
+msgid "Referral.shareinviteriends.Title"
+msgstr "Compartilhe, convide seus amigos" 
+
+msgid "Referral.invitefriends.Title"
+msgstr "Convide com seu link" 
+
+msgid "Referral.copypastelink.Title"
+msgstr "Copie esse link e poste em seu email, mensagens instanâneas,<br/>Twitter ou pelo Facebook" 
+
+msgid "Referral.selectfriends.Title"
+msgstr "Selecione seu amigos"
+
+msgid "Referral.choiceoneorenvite.Title"
+msgstr "Escolha um ou todos os amigos e envie uma mensagem <br/>diretamente" 
+
+msgid "Referral.invites.Title"
+msgstr "Convites"
+
+#### HEADER ####
+msgid "Invite.header.name"
+msgstr "Cadastre-se no BazzApp e conheça a maior rede de Compra, Venda e Troca do Facebook! Acesse já para ver as Ofertas ou Comece a Anunciar de Graça!"
+
+msgid "Invite.header.caption"
+msgstr "https://apps.facebook.com/bazzapp/"
+
+msgid "Invite.header.description"
+msgstr "O BazzApp é a maior rede de Compra, Venda e Troca do Facebook! Acesse já para ver as Ofertas ou Comece a Anunciar de Graça!"
+
+msgid "Invite.apprequests.name"
+msgstr "%s convidou a conhecer a sua loja no BazzApp, o maior bazar virtual do Facebook."
+
+##STORE ####
+
+msgid "Layouts.fb_default.stores"
+msgstr "Minha Loja"
+
+msgid "Sharefriends.header.name"
+msgstr " | BazzApp"
+
+msgid "Sharefriends.header.description"
+msgstr "O BazzApp é a maior rede de Compra, Venda e Troca do Facebook! Acesse já para ver as minhas Ofertas!"
+
+msgid "Invitefriends.header.name"
+msgstr " | BazzApp"
+
+msgid "Invitefriends.header.description"
+msgstr "O BazzApp é a maior rede de Compra, Venda e Troca do Facebook! Acesse já para ver as minhas Ofertas!"
+
+msgid "Products.admin_add.form.loading"
+msgstr "Aguarde, criando seu produto..."
+
+msgid "Products.admin_edit.form.loading"
+msgstr "Aguarde, atualizando seu produto..."
+
+msgid "Products.admin_add.form.disclaimerFee"
+msgstr "Ao anunciar seu produto ele será postado no Facebook. Caso o produto seja vendido será<br/> cobrada uma comissão de 8,5% conforme nossos "
+
+msgid "Products.buy.form.loading"
+msgstr "Aguarde..."
+
+msgid "Layouts.fb_default.editar"
+msgstr "Editar Produto"
+
+############################################
+#### DESCRIPTIONS/METAS
+############################################
+
+## HOME ####
+msgid "Layouts.default.meta.home.description"
+msgstr "O BazzApp é o maior e melhor marketplace de compra, venda e troca de produtos no Facebook"
+
+msgid "Layouts.default.meta.home.keywords"
+msgstr "Venda no Facebook; Troca no Facebook; Compra no Facebook; Marketplace Facebook;"
+
+## HOW WORKS ####
+msgid "Layouts.default.meta.how_works.description"
+msgstr "Comece a vender no Facebook usando o BazzApp. Você pode criar sua loja no Facebook de forma rápida e fácil e integrá-la a sua Fan Page"
+
+msgid "Layouts.default.meta.how_works.keywords"
+msgstr "BazzApp; Venda no Facebook; Criar Loja Facebook"
+
+## SELL ####
+msgid "Layouts.default.meta.sell.title"
+msgstr "Anúncios Grátis. Venda pelo Facebook no BazzApp. Crie sua loja"
+
+msgid "Layouts.default.meta.sell.description"
+msgstr "Comece a vender no Facebook usando o BazzApp. Você pode criar sua loja no Facebook de forma rápida e fácil e integrá-la a sua Fan Page"
+
+msgid "Layouts.default.meta.sell.keywords"
+msgstr "BazzApp; Venda no Facebook; Criar Loja Facebook"
+
+## PRODUCT - VIEW ####
+
+msgid "Layouts.default.meta.product_view.title"
+msgstr "%s à venda em %s no BazzApp"
+
+msgid "Layouts.default.meta.product_view.description"
+msgstr "%s à venda em %s no BazzApp. %s"
+
+msgid "Layouts.default.meta.product_view.keywords"
+msgstr "%s; BazzApp; %s;"
+
+## STORE - VIEW ####
+msgid "Layouts.default.meta.store_view.title"
+msgstr "%s em Bazzapp no Facebook"
+
+msgid "Layouts.default.meta.store_view.description"
+msgstr "Página da %s no Facebook. Produtos a venda pelo BazzApp. %s"
+
+msgid "Layouts.default.meta.store_view.keywords"
+msgstr "%s; BazzApp; Venda no Facebook"
+
+## SEARCH - CATEGORY ####
+msgid "Layouts.default.meta.search.title"
+msgstr "%s à venda no BazzApp"
+
+msgid "Layouts.default.meta.search.description"
+msgstr "Veja todos os %s à venda no BazzApp"
+
+msgid "Layouts.default.meta.search.keywords"
+msgstr "%s; BazzApp"

@@ -1,0 +1,4 @@
+subject:%(userName)s anunciou um novo produto pelo BazzApp
+%(userName)s acabou de anunciar "%(productTitle)s" por R$%(productPrice)s.
+
+Clique, confira e compre em %(productUrl)s."

@@ -1,0 +1,1 @@
+Seu produto "%(productTitle)s" foi comprado no BazzApp por %(buyerName)s

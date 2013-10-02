@@ -1,0 +1,5 @@
+Olá %(buyerName)s, você comprou o item "%(productTitle)s" do vendedor %(sellerName)s.
+
+Você pode acompanhar suas compras e vendas por %(purchasesUrl)s.
+
+Entre em contato com o vendedor pelo email: %(sellerEmail)s

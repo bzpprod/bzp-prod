@@ -1,0 +1,12 @@
+subject:Seu amigo %(userName)s começou a participar do BazzApp
+%(friendName)s,
+
+Seu amigo(a) %(userName)s começou a participar do BazzApp também!
+
+Acesse o perfil de "%(storeName)s" e veja já o que ele(a) está vendendo!
+%(storeUrl)s
+
+Equipe BazzApp
+
+
+Este é um email automático não devendo ser respondido.

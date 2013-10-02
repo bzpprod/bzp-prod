@@ -1,0 +1,12 @@
+subject:Olá %(storeTitle)s, você tem uma nova venda no BazzApp
+Olá %(storeTitle)s,
+Você tem uma venda do item "%(productTitle)s", para o usuário %(buyerName)s.
+
+Entre em contato com o usuário o mais breve possível através do e-mail %(buyerEmail)s informando os dados bancários para pagamento.
+
+%(deliveryAddress)s
+
+
+Equipe BazzApp
+
+Este é um email automático não devendo ser respondido.

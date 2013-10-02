@@ -1,0 +1,10 @@
+subject:Você recebeu um novo comentário no item %(productTitle)s
+%(storeTitle)s,
+
+Um possível comprador tem uma dúvida / comentário sobre o seu produto "%(productTitle)s" e por isso fez uma pergunta.
+
+%(productUrl)s 
+
+Responda o mais rápido possível.
+
+Equipe BazzApp

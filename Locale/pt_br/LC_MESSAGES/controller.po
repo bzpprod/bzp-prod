@@ -1,0 +1,201 @@
+############################################
+##
+## APP_CONTROLLER
+##
+############################################
+
+#### BEFORE_FILTER ####
+
+msgid "app.beforeFilter.authError"
+msgstr "Você não possui permissão para acessar o endereço requisitado."
+
+
+############################################
+##
+## USERS
+##
+############################################
+
+#### FB_LOGIN ####
+
+msgid "Users.fb_login.store_title.male"
+msgstr "Loja do :name"
+
+msgid "Users.fb_login.store_title.female"
+msgstr "Loja da :name"
+
+
+############################################
+##
+## PRODUCTS
+##
+############################################
+
+#### HOME ####
+
+msgid "Products.home.title"
+msgstr "Bem vindo ao BazzApp"
+
+msgid "Products.home.title.likes"
+msgstr "Home - Produtos mais curtidos"
+
+msgid "Products.home.title.friends_products"
+msgstr "Home - Produtos de amigos"
+
+msgid "Products.home.title.follow_stores"
+msgstr "Home - Produtos de lojas seguidas"
+
+msgid "Products.home.title.expensive"
+msgstr "Home - Produtos mais caros"
+
+msgid "Products.home.title.cheaper"
+msgstr "Home - Produtos mais baratos"
+
+#### INDEX ####
+
+msgid "Products.index.title"
+msgstr "Produtos"
+
+#### ADMIN_ADD ####
+
+msgid "Products.admin_add.title"
+msgstr "Anunciar produto"
+
+msgid "Products.admin_add.store.welcome"
+msgstr "Visite minha loja:"
+
+msgid "Products.admin_add.product.new"
+msgstr "Produto Novo"
+
+msgid "Products.admin_add.product.used"
+msgstr "Produto Usado"
+
+msgid "Products.admin_add.product.refurbished"
+msgstr "Produto Remanufaturado"
+
+#### ADMIN_IMPORT ####
+
+msgid "Products.admin_import.title"
+msgstr "Importar produtos do álbum"
+
+#### PUBLISH_PRODUCT_PHOTO ####
+
+msgid "Products.publishPhoto.fb_photo.page.message"
+msgstr ":title\n:price | :condition\n\nConfira em: :path\n\n:description"
+
+msgid "Products.publishPhoto.fb_photo.personal.message"
+msgstr ":title\n:price | :condition\n\nConfira em: :path\n\n:description"
+
+msgid "Products.publishPhoto.fb_album.page.name"
+msgstr "Produtos que estou vendendo no BazzApp:"
+
+msgid "Products.publishPhoto.fb_album.page.message"
+msgstr "Visite minha loja:\n:path\n\n:description"
+
+msgid "Products.publishPhoto.fb_album.personal.name"
+msgstr "Produtos que estou vendendo no BazzApp: :name"
+
+msgid "Products.publishPhoto.fb_album.personal.message"
+msgstr "Visite minha loja:\n:path\n\n:description"
+
+#### API_BUY ####
+
+msgid "Products.api_buy.email.buyer.subject"
+msgstr "Parabéns pela compra do item ":product""
+
+msgid "Products.api_buy.email.seller.subject"
+msgstr "Você tem uma venda do item ":product""
+
+
+############################################
+##
+## STORES
+##
+############################################
+
+#### ADMIN_VIEW ####
+
+msgid "Stores.admin_view.title"
+msgstr "Minha loja - :store"
+
+#### ADMIN_VIEW_ARCHIVE ####
+
+msgid "Stores.admin_view_archive.title"
+msgstr "Minha loja - :store - Produtos esgotados"
+
+#### ADMIN_EDIT ####
+
+msgid "Stores.admin_edit.title"
+msgstr "Alterar dados da minha loja"
+
+
+############################################
+##
+## STORES QUALIFICATIONS
+##
+############################################
+
+#### INDEX ####
+
+msgid "StoresQualifications.index.title"
+msgstr ":store - Qualificações"
+
+#### FANPAGE_INDEX ####
+
+msgid "StoresQualifications.fanpage_index.title"
+msgstr ":store - Qualificações"
+
+
+############################################
+##
+## SALES
+##
+############################################
+
+#### ADMIN_INDEX ####
+
+msgid "Sales.admin_index.title"
+msgstr "Minhas Vendas"
+
+
+############################################
+##
+## SYSTEM
+##
+############################################
+
+#### COMMENT ####
+
+msgid "System.comment.email.subject"
+msgstr "Você recebeu um novo comentário no item ":product""
+
+
+#### FACEBOOK FRIENDS ####
+
+msgid "System.facebook_friends.email.subject"
+msgstr "Seu amigo ":user" começou a participar do BazzApp"
+
+
+############################################
+##
+## PURCHASES
+##
+############################################
+
+#### ADMIN_INDEX ####
+
+msgid "Purchases.admin_index.title"
+msgstr "Minhas Compras"
+
+
+############################################
+##
+## REFERRALS
+##
+############################################
+
+#### ADMIN_INDEX ####
+
+msgid "Referrals.admin_index.title"
+msgstr "Amigos que aceitaram seu convite"
+

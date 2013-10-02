@@ -1,0 +1,4 @@
+subject:Qualifique a %(type)s do produto %(productTitle)s
+Você comprou o produto %(productTitle)s a %(days)s dias.
+
+Qualifique o %(entityType)s através do link %(url)s  e ajude a fazer do BazzApp um marketplace mais transparente.

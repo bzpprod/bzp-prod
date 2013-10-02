@@ -1,0 +1,1 @@
+O usuário "%(userName)s" passou a seguir sua loja no BazzApp

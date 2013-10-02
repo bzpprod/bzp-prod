@@ -1,0 +1,2 @@
+subject:%(userName)s começou a seguir sua loja no BazzApp
+%(ownerName)s, %(userName)s começou a seguir sua loja no BazzApp. Visualize o perfil dele(a) em %(userUrl)s.

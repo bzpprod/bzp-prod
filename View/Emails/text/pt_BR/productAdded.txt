@@ -1,0 +1,4 @@
+subject:Obrigado por cadastrar o produto %(productTitle)s pelo BazzApp
+Obrigado por anunciar o produto "%(productTitle)s".
+
+Para configurar ver os produtos que estão sendo anunciados em sua loja e configurá-la acesse https://bazzapp.com/my-store

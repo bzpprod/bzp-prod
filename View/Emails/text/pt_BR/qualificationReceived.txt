@@ -1,0 +1,4 @@
+subject:Você recebeu uma qualificação %(qualification)s pelo BazzApp
+Você recebeu uma qualificação %(qualification)s  pela %(transactionType)s de "%(productTitle)s".
+
+Clique em %(qualificationUrl)s para qualificar a pessoa de volta e ajude a tornar o BazzApp um marketplace mais trasnparente
