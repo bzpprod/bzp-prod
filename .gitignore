@@ -1,0 +1,17 @@
+.htaccess
+
+tmp/cache/models/*
+
+tmp/cache/persistent/*
+
+tmp/logs/*
+
+webroot/files/*
+
+Config/database.php
+
+Config/bootstrap.php
+Config/email.php
+
+# Sitemaps
+webroot/sitemap*
