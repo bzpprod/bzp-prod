@@ -1,0 +1,25 @@
+CakePHP 2.0 Sluggable Behavior
+==============================
+
+CakePHP 2.0 Compatible version based largely on Mariano Iglesias' original Sluggable Behavior
+
+Installation
+------------
+
+Copy the plugin to app/Plugin/
+
+Usage
+-----
+Use inside your model 
+
+    public  $actsAs = array('Sluggable.Sluggable' => array(
+        'label'=>'name',
+        'slug'=>'slug',
+        'separator'=>'-',
+        'overwrite'=>true   
+    ));
+    
+Tests
+-----
+
+Test Cases are largely untouch and have not been rewritten to for CakePHP 2.0
